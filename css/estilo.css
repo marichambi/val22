@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+hr {
+  background-color: yellow;
+  height: 50px;
+  margin-right: 2%;
+  width: 100%;
+}
+hr#segundo {
+  background-color:blue ;
+  height: 40px;
+  margin-right: 0%;
+  width: 100%;
+}
+hr#tercero {
+  background-color: red;
+  height: 180px;
+  margin-right: 0%;
+  width: 100%;
+}
+hr#cuarto {
+  width: 1370px;
+  height: 200px;
+  background-image: url(../imagen/fondo.jpeg);
+  margin:0px;
